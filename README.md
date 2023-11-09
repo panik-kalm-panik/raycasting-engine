@@ -43,7 +43,7 @@ Some variables are assigned the same value multiple times, which can reduce perf
 > [!IMPORTANT]  
 > If you are using this raymarcher as a template for a bigger project, consider asigning those variables on load, instead of each iteration. (Every variable that should be changed is commented in the fragment shader)
 
-## How to visualize.
+## How to visualize
 To see this raymarcher in action, open the following link to access the web hosted in [GitHub Pages](https://panik-kalm-panik.github.io/raycasting-engine/).
 
 Or download the source code and open the project in a hosted server, like VSCode live-share.
