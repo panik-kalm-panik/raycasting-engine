@@ -1,1 +1,0 @@
-var engine = angular.module('raycast_engine', []); 
