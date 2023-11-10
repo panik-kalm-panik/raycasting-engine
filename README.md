@@ -1,6 +1,7 @@
 # Raycasting Engine
-![Static Badge](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=990000&labelColor=black)
+![Static Badge](https://img.shields.io/badge/webgl-990000?style=for-the-badge&logo=webgl&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black)
+![Static Badge](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=%231572B6&labelColor=black)
 
